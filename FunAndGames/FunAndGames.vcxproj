@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="FunAndGames.cpp" />
     <ClCompile Include="myTimer.cpp" />
+    <ClCompile Include="myWait.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="myTimer.h" />
+    <ClInclude Include="myWait.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
